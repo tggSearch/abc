@@ -23,7 +23,7 @@
 具体操作的流程，我录制了一个视频，有需要的自己查看下
 [百度网盘视频地址](https://pan.baidu.com/s/1bRl97Te6xwxSWYtC1GSURg) 提取码: xct6
 看不懂的可以看图片教程
-![注册教程](https://raw.githubusercontent.com/tnodejs/telegram-intro/main/resource/android-register.png)
+![注册教程](../resource/android-register.png)
 ### iOS（苹果）
 #### 苹果推荐方法
 可以前往这里购买<font color="#dd0000">（特别申明：自己负责，不是我的服务，有问题找平台客服）</font>，里面有专门的小火箭 shadowrocket 1.99元的账户(请注意2个条件，1.99元以及叫做shadowrocket)，购买后，请按照他们官方提供的操作方法。
@@ -48,7 +48,7 @@
 具体操作的流程，我录制了一个视频，有需要的自己查看下
 [百度网盘视频地址](https://pan.baidu.com/s/1bRl97Te6xwxSWYtC1GSURg) 提取码: xct6
 看不懂的可以看图片教程
-![注册教程](https://raw.githubusercontent.com/tnodejs/telegram-intro/main/resource/ios-register.png)
+![注册教程](../resource/ios-register.png)
 ## 电报飞机应用下载
 首先打开我们上面的梯子，<font color="#dd0000">请注意我们用的是官方网站下载，一定要打开梯子</font>，选择香港节点就行了，然后打开下面链接
 ### Android
@@ -56,9 +56,7 @@
 [https://telegram.org/android](https://telegram.org/android)
 这是官网地址，只有英文版本，进入app后可以切换，关于如何切换中文版本查看我的抖音视频：[https://v.douyin.com/AEypu4V/](https://v.douyin.com/AEypu4V/)
 ### iOS
-需要登录海外账户，如果你已经有了就可以直接搜索 telegram 进行下载了，如果你没有，可以使用以下海外免费账号。
-[https://freevpn007.cf/share.html](https://freevpn007.cf/share.html)
-如果需要长久的，可以抖音私聊我购买，5元一个长久账号。
+在前面已经下载好了电报这里就不用下载了
 ## 注册电报
 ### 打开梯子
 请务必打开代理梯子，就我们第一步下载的应用，选择香港节点即可，然后点第一个启动按钮，显示如下图所示就可以了。<font color="#dd0000">一定要确保这一步是正确的，一般在你的手机的最上面的信息栏可以看到 VPN 标识，就可以了。</font>
@@ -67,8 +65,9 @@
 ### 登陆
 正常用注册的账号登陆即可
 ### 加入功能群
-电报最重要的功能就是群，如何找到你想要的群和资源，就是通过这个群可以去定位到。进去以后你是空白的，点击搜索栏，输入下面的地址，或者输入@chineseSearchService 第一个就是我们的群了。
+电报最重要的功能就是群，如何找到你想要的群和资源，就是通过这个群可以去定位到。进去以后你是空白的，点击搜索栏，输入下面的地址，或者输入@chineseSearchService 第一个就是第三方的搜索群了。
 https://t.me/chineseSearchService
+请注意是在消息页面搜索，不用前往联系人页面，iOS是第二个菜单
 
 如下，进群后，输入你想要搜索的群，这就是正常的搜索引擎。
 ### 如何切换中文
