@@ -20,8 +20,6 @@
 5. 打开（小火箭 Clash），然后选择主页的配置按钮，进去后，勾选一个你刚才载入的配置，如果没有可选择的，要回到第4步；
 6. 选择后回到（小火箭 Clash）首页，选择“点击启动”，就可以启动了，启动后，有一个代理的按钮，你可以进去最好选择香港节点；
 
-具体操作的流程，我录制了一个视频，有需要的自己查看下
-[百度网盘视频地址](https://pan.baidu.com/s/1bRl97Te6xwxSWYtC1GSURg) 提取码: xct6
 看不懂的可以看图片教程
 ![注册教程](../resource/android-register.png)
 ### iOS（苹果）
@@ -45,8 +43,6 @@
 3. 打开（小火箭 shadowrocket），里面可以选择节点，可以选择一个香港节点，注意由于使用人多，晚上会卡，可以选择其他的节点，比如日本，然后打开第一个按钮，按钮原来显示“未连接”，打开那个开关就行了；
 4. 这时候会在任务栏有一个vpn标识就算成功了；
 
-具体操作的流程，我录制了一个视频，有需要的自己查看下
-[百度网盘视频地址](https://pan.baidu.com/s/1bRl97Te6xwxSWYtC1GSURg) 提取码: xct6
 看不懂的可以看图片教程
 ![注册教程](../resource/ios-register.png)
 ## 电报飞机应用下载
@@ -54,7 +50,7 @@
 ### Android
 有最新APK，下载地址如下，如果需要中文apk。
 [https://telegram.org/android](https://telegram.org/android)
-这是官网地址，只有英文版本，进入app后可以切换，关于如何切换中文版本查看我的抖音视频：[https://v.douyin.com/AEypu4V/](https://v.douyin.com/AEypu4V/)
+这是官网地址，只有英文版本，进入app后可以切换，关于如何切换中文版本查看其他人的抖音视频：[https://v.douyin.com/AEypu4V/](https://v.douyin.com/AEypu4V/)
 ### iOS
 在前面已经下载好了电报这里就不用下载了
 ## 注册电报
