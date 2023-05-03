@@ -1,15 +1,14 @@
-# 电报/飞机/telegram 该如何注册
+# 推特/小蓝鸟/twitter 该如何注册
 
-整理分为 4 个大步骤
-1. 下载 VPN 网络梯子，海外加速器；
-2. 下载 telegram 飞机 电报；
+整理分为 3 个大步骤
+1. 下载 VPN 网络梯子，海外加速器（如果你已经有，请跳到第二步）；
+2. 下载 推特 twitter 小蓝鸟；
 3. 注册登陆；
-4. 进群切换中文版本；
 
-## 网络梯子VPN
+## 网络梯子加速器VPN
 这是海外用户的加速器，主要是给海外用户加速使用。
 ### Android（安卓）
-[首选注册地址](https://bit.ly/3LhP25y)
+[首选注册地址](https://www.三毛机场.xyz/#/register?code=gVj9CTrz)
 如果首选地址无法打开
 [备用地址](https://www.三毛机场.xyz/#/register?code=gVj9CTrz)
 看不懂的看下面的图片教程！！！！！！
@@ -30,9 +29,13 @@
 [https://appidshop.com/](https://appidshop.com/)
 <font color="#dd0000">（特别申明：自己负责，不是我的服务，有问题找平台客服）</font>，里面有专门的小火箭 shadowrocket 1.99元的账户(请注意2个条件，1.99元以及叫做shadowrocket)，购买后，请按照他们官方提供的操作方法。
 
-登录成功请下载2个软件，一个叫做 shadowrocket 一个叫做 telegram
+登录成功请下载2个软件，一个叫做 shadowrocket 一个叫做 twitter
 
 没有用海外ID下载的软件，都是假的！！没有用海外ID下载的软件，都是假的！！没有用海外ID下载的软件，都是假的！！
+
+[https://idappstore.cc/](https://idappstore.cc/)
+打不开上面的用下面的
+[https://appidshop.com/](https://appidshop.com/)
 #### 接下来的步骤和安卓基本是一样的
 [首选注册地址](https://bit.ly/3LhP25y)
 如果首选地址无法打开
@@ -45,40 +48,36 @@
 
 看不懂的可以看图片教程
 ![注册教程](../resource/ios-register.png)
-## 电报飞机应用下载
-首先打开我们上面的梯子，<font color="#dd0000">请注意我们用的是官方网站下载，一定要打开梯子</font>，选择香港节点就行了，然后打开下面链接
-### Android
-有最新APK，下载地址如下，如果需要中文apk。
-[https://telegram.org/android](https://telegram.org/android)
-这是官网地址，只有英文版本，进入app后可以切换，关于如何切换中文版本查看其他人的抖音视频：[https://v.douyin.com/AEypu4V/](https://v.douyin.com/AEypu4V/)
-### iOS
-在前面已经下载好了电报这里就不用下载了
-## 注册电报
+## 推特twitter应用下载
+打开这个链接：
+[https://twitter.com/settings/download](https://twitter.com/settings/download)
+打开后会自动识别你的手机机型
+苹果选择 iOS 跳转到 APPStore
+安卓选择 Android 跳转到 googleplay
+
+好了大部分用户可能没有 googleplay 怎么办呢？前往这里下载 apk 版本
+[https://m.apkpure.com/cn/twitter/com.twitter.android](https://m.apkpure.com/cn/twitter/com.twitter.android)
+## 注册推特
 ### 打开梯子
 请务必打开代理梯子，就我们第一步下载的应用，选择香港节点即可，然后点第一个启动按钮，显示如下图所示就可以了。<font color="#dd0000">一定要确保这一步是正确的，一般在你的手机的最上面的信息栏可以看到 VPN 标识，就可以了。</font>
-### 打开电报注册
-进入APP就可以使用手机号注册，直接输入手机号，然后等待验证码，如下所示。请注意这里很多用户反馈收不到验证码，我也一样，偶尔收不到，大家一定要多试几次，如果确实收不到了换个手机尝试一下，如果几天尝试都失败，看我最下面的使用接码平台注册的方法。
-### 登陆
-正常用注册的账号登陆即可
-### 加入功能群
-电报最重要的功能就是群，如何找到你想要的群和资源，就是通过这个群可以去定位到。进去以后你是空白的，点击搜索栏，输入下面的地址，或者输入@chineseSearchService 第一个就是第三方的搜索群了。
-https://t.me/chineseSearchService
-请注意是在消息页面搜索，不用前往联系人页面，iOS是第二个菜单
+### 打开推特注册
+请使用邮箱注册，可以用qq邮箱，例如xxx@qq.com，注册过程中需要邮箱验证码，请务必填写真实的
+特别注意，你的出生日期要选一个大于18岁的生日，不然会无法注册
 
-如下，进群后，输入你想要搜索的群，这就是正常的搜索引擎。
-### 如何切换中文
-加入 [https://t.me/chineseSearchService](https://t.me/chineseSearchService) 该群，进群后，回复中文会返回2个切换的链接，随便选择一个就行。
-## 电报骗子与禁忌
-电报太多骗子，一般主动私聊你的都是骗子，大家不要存在侥幸心理，不要在电报进行任何交易，电报主要是获取资源的渠道。
-骗子手法太多，防不胜防，建议大家不要理会主动私聊你的人
+### 注册后，提示账号已经锁定
+按照流程解锁就行了。
+
+### 注册流程
+接下来就按照步骤操作就行了，不想操作的，直接点击下面的跳过
+正常用注册的账号登陆即可
+### 关注我们的官方号
+进入后，点击下面打开关注
+[关注点击](https://twitter.com/Dan27112342Dan)
+
+或者搜索 Financial TG Bot
 ## 常见问题
-### 无法收到验证码
-1. 首先确认你的VPN是否处于链接状态，如果不正常会提示如下问题；
-2. 请大家一定要多试几次，因为电报确实偶尔会收不到验证码，或者每天试试；
-3. 请查看截图，如果提示是验证码发送到你的其他设备，而不是发送了短信，那这时候就是有问题了，可以尝试换个手机试试，如果其他手机能登陆，先登陆，再使用你的最初那个手机去登陆，它会将验证码发送到你刚才登陆的手机上，这样你就可以登陆了；
-4. 如果很多天确实不行，建议走接码虚拟号平台 [https://sms-activate.org/?ref=2821105](https://sms-activate.org/?ref=2821105)；
 ### iOS怎么下载
 这里需要注意，大家切换苹果商店账号，可以前往 设置->个人信息->媒体与购买->退出登陆->返回前一个页面->再次进入个人信息->点击媒体与购买->选择不是xxx->输入你的苹果id即可，不要全部退出
-海外苹果免费账号分享，这个平台也有提示 [https://freevpn007.cf/share.html](https://freevpn007.cf/share.html)
+海外苹果免费账号分享，多试试，试试多几个账号，需要注册永久的，看youtube视频介绍[https://www.youtube.com/watch?v=oY396wEXzww&t=87s](https://www.youtube.com/watch?v=oY396wEXzww&t=87s)，这个平台也有提示 [https://freevpn007.cf/share.html](https://freevpn007.cf/share.html)
 
 <font color="#dd0000">其他问题请提issue</font>
