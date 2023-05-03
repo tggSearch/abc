@@ -50,6 +50,7 @@
 ![注册教程](../resource/ios-register.png)
 ## 推特twitter应用下载
 打开这个链接：
+请开梯子下载！！！请开梯子打开下载！！！
 [https://twitter.com/settings/download](https://twitter.com/settings/download)
 打开后会自动识别你的手机机型
 苹果选择 iOS 跳转到 APPStore
