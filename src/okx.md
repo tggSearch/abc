@@ -12,6 +12,7 @@ OKX注册地址：https://www.okx.com/join/7227018
 <img src="../resource/okx-android-menu.png" width="50%">
 
 打开左上角的菜单选项，一直往下，在最底部选择
+
 <img src="../resource/okx-android-download.png" width="50%">
 
 页面就会自动跳转到下载APP的页面
