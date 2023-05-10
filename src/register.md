@@ -6,7 +6,7 @@
 3. 注册登陆；
 4. 进群切换中文版本；
 
-特别注意，华为情使用 gspace，链接去这里下载 https://gspaceteam.com/
+特别注意，华为请使用 gspace，链接去这里下载 https://gspaceteam.com/
 
 ## 网络梯子VPN
 这是海外用户的加速器，主要是给海外用户加速使用。
