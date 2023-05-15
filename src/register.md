@@ -45,13 +45,13 @@
 ![注册教程](../resource/ios-register.png)
 ## 电报飞机应用下载
 ### Android
-如果不打开梯子，下载方式如下，这个广告有点多，耐心点击下载
-[https://upfiles.com/TCTCT6](https://upfiles.com/TCTCT6)
-
 首先打开我们上面的梯子，<font color="#dd0000">请注意我们用的是官方网站下载，一定要打开梯子</font>，选择香港节点就行了，然后打开下面链接
-
 有最新APK，下载地址如下
 [https://telegram.org/android](https://telegram.org/android)
+
+没法使用官网下载，可以前往这里，广告有点多，需要耐心点击
+[https://upfiles.com/TCTCT6](https://upfiles.com/TCTCT6)
+
 
 这是官网地址，只有英文版本，进入app后可以切换，关于如何切换中文版本查看其他人的抖音视频：[https://v.douyin.com/AEypu4V/](https://v.douyin.com/AEypu4V/)
 ### iOS
