@@ -3,3 +3,4 @@
 ### [推特注册方法](./src/twitter.md)
 ### [VPN方法，内含苹果和安卓](./src/vpn.md)
 ### [okx 欧易注册流程](./src/okx.md)
+### [tiktok 教程](./src/tiktok.md)
