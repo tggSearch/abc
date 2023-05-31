@@ -1,7 +1,7 @@
 【广告在前，请兄弟们多支持】
 欧易正规交易所，注册下载就可领取现金BTC https://www.okx.com/join/7227018
 ### Android 安卓福报
-https://upfiles.com/EbJCD
+https://www.mediafire.com/file/dh211azfollilud/base.apk/file
 里面广告有点点，大家一步步耐心点击就可以了
 ### 苹果限制方式
 tiktok 限制地区得方式有2个
