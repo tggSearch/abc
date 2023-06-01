@@ -1,5 +1,3 @@
-【广告在前，请兄弟们多支持】
-欧易正规交易所，注册下载就可领取现金BTC https://www.okx.com/join/7227018
 ### 网页版（无限制，只需要 ip）
 1. 首先打开梯子（没有梯子，请先去注册下载地址，[方法参考这里，小火箭](https://github.com/tggSearch/abc/blob/main/src/vpn.md)），切换到你想要观看的国家或者地区，比如节点选择日本或者美国
 2. 打开 https://tiktok.com 就可以观看了
@@ -7,7 +5,7 @@
 4. 登录后就正常使用了。
 
 ### Android 安卓福报
-https://www.mediafire.com/file/cfyi6jmbluxgjhm/base.apk/file
+https://www.mediafire.com/file/cfyi6jmbluxgjhm/tiktok.apk/file
 里面广告有点点，大家一步步耐心点击就可以了
 ### 苹果限制方式
 tiktok 限制地区得方式有2个
